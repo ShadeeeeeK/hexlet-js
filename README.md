@@ -1,3 +1,4 @@
 Мой первый проект на Хекслете
-[![Github Actions](https://github.com/ShadeeeeeK/frontend-project-lvl1/actions/workflows/linter.yml/badge.svg)](https://github.com/ShadeeeeeK/frontend-project-lvl1/actions)
+### Asciinema of launching and playing games
+brain-even (https://asciinema.org/a/hw5njgKslvMWfYbxz2UzWcK3u)
 
